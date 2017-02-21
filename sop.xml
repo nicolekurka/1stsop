@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sop>
+    <title>How to Take Summer and Winter Courses at Virginia Tech</title>
+    <subtitle>By Nicole Kurka</subtitle>
+    <h1>How to Take Summer Session Courses</h1>
+    <intro>
+        
+        
+    </intro>
+    <sessions>
+        <session>
+            <url>summer.html</url>
+            <sessiontitle> Summer sessions at VT</sessiontitle>
+            <welcome>this is summer</welcome>
+            <tasks>
+                <task>
+                    <tasktitle></tasktitle>
+                    <staging></staging>
+                    <ingredients>
+                        <item>computer</item>
+                    </ingredients>
+                    <ingredients>
+                        <item>PID</item>
+                    </ingredients>
+                    <steps>
+                        <action>do this</action>
+                        <note>additional info idk</note>
+                    </steps>
+                </task>
+            </tasks>
+        </session>
+    </sessions>
+</sop>
